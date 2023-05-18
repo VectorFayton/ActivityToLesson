@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ActivityToLesson.iml" filepath="$PROJECT_DIR$/ActivityToLesson.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Coffee_Time/Coffee_Time.iml" filepath="$PROJECT_DIR$/Coffee_Time/Coffee_Time.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pracice_Activities_12/Pracice_Activities_12.iml" filepath="$PROJECT_DIR$/Pracice_Activities_12/Pracice_Activities_12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice Activies 13/Practice Activies 13.iml" filepath="$PROJECT_DIR$/Practice Activies 13/Practice Activies 13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice Activities 4/Practice Activities 4.iml" filepath="$PROJECT_DIR$/Practice Activities 4/Practice Activities 4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PracticeActivities_12/PracticeActivities_12.iml" filepath="$PROJECT_DIR$/PracticeActivities_12/PracticeActivities_12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice_Activities_10/Practice_Activities_10.iml" filepath="$PROJECT_DIR$/Practice_Activities_10/Practice_Activities_10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice_Activities_11/Practice_Activities_11.iml" filepath="$PROJECT_DIR$/Practice_Activities_11/Practice_Activities_11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice_Activities_5/Practice_Activities_5.iml" filepath="$PROJECT_DIR$/Practice_Activities_5/Practice_Activities_5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice_Activities_9/Practice_Activities_9.iml" filepath="$PROJECT_DIR$/Practice_Activities_9/Practice_Activities_9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice_Activity_14/Practice_Activity_14.iml" filepath="$PROJECT_DIR$/Practice_Activity_14/Practice_Activity_14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practices Activties 3/Practices Activties 3.iml" filepath="$PROJECT_DIR$/Practices Activties 3/Practices Activties 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PreparingToFinal/PreparingToFinal.iml" filepath="$PROJECT_DIR$/PreparingToFinal/PreparingToFinal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice Activies 13/ProblemA/ProblemA.iml" filepath="$PROJECT_DIR$/Practice Activies 13/ProblemA/ProblemA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test/Test.iml" filepath="$PROJECT_DIR$/Test/Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestUI/TestUI.iml" filepath="$PROJECT_DIR$/TestUI/TestUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/problem B/problem B.iml" filepath="$PROJECT_DIR$/problem B/problem B.iml" />
+    </modules>
+  </component>
+</project>

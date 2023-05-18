@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Coffee_Time" />
+        <module name="Practice_Activities_11" />
+        <module name="Practice_Activities_5" />
+        <module name="Practice_Activities_10" />
+        <module name="Test" />
+        <module name="Pracice_Activities_12" />
+        <module name="ProblemA" />
+        <module name="PracticeActivities_12" />
+        <module name="TestUI" />
+        <module name="Practice_Activity_14" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Coffee_Time" target="19" />
+      <module name="Pracice_Activities_12" target="19" />
+      <module name="Practice_Activities_10" target="19" />
+      <module name="Practice_Activities_11" target="19" />
+      <module name="Practice_Activities_5" target="19" />
+      <module name="Practice_Activity_14" target="19" />
+      <module name="PracticeActivities_12" target="19" />
+      <module name="ProblemA" target="19" />
+      <module name="Test" target="19" />
+      <module name="TestUI" target="19" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
