@@ -15,6 +15,6 @@ public class Designer extends Profession {
         super.Action();
     }
     public void getInfo(){
-        System.out.printf("%s is %s. Age: %s. Salary: %s$ \n", name, Profession.class.getName(), age, salary);
+        System.out.printf("%s is %s. Age: %s. Salary: %s$ \n", name, Designer.class.getName(), age, salary);
     }
 }
