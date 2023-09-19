@@ -10,11 +10,11 @@
         <module name="Practice_Activities_11" />
         <module name="Practice_Activities_5" />
         <module name="Practice_Activities_10" />
-        <module name="Test" />
         <module name="Pracice_Activities_12" />
+        <module name="Test" />
         <module name="ProblemA" />
-        <module name="PracticeActivities_12" />
         <module name="TestUI" />
+        <module name="PracticeActivities_12" />
         <module name="Practice_Activity_14" />
       </profile>
     </annotationProcessing>

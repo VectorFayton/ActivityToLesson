@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Activity One Second Semestr/Activity One Second Semestr.iml" filepath="$PROJECT_DIR$/Activity One Second Semestr/Activity One Second Semestr.iml" />
       <module fileurl="file://$PROJECT_DIR$/ActivityToLesson.iml" filepath="$PROJECT_DIR$/ActivityToLesson.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Check If Two String Arrays are Equivalent/Check If Two String Arrays are Equivalent.iml" filepath="$PROJECT_DIR$/Check If Two String Arrays are Equivalent/Check If Two String Arrays are Equivalent.iml" />
       <module fileurl="file://$PROJECT_DIR$/Coffee_Time/Coffee_Time.iml" filepath="$PROJECT_DIR$/Coffee_Time/Coffee_Time.iml" />
       <module fileurl="file://$PROJECT_DIR$/Pracice_Activities_12/Pracice_Activities_12.iml" filepath="$PROJECT_DIR$/Pracice_Activities_12/Pracice_Activities_12.iml" />
       <module fileurl="file://$PROJECT_DIR$/Practice Activies 13/Practice Activies 13.iml" filepath="$PROJECT_DIR$/Practice Activies 13/Practice Activies 13.iml" />
@@ -17,7 +18,6 @@
       <module fileurl="file://$PROJECT_DIR$/Practices Activties 3/Practices Activties 3.iml" filepath="$PROJECT_DIR$/Practices Activties 3/Practices Activties 3.iml" />
       <module fileurl="file://$PROJECT_DIR$/PreparingToFinal/PreparingToFinal.iml" filepath="$PROJECT_DIR$/PreparingToFinal/PreparingToFinal.iml" />
       <module fileurl="file://$PROJECT_DIR$/Practice Activies 13/ProblemA/ProblemA.iml" filepath="$PROJECT_DIR$/Practice Activies 13/ProblemA/ProblemA.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Sort the People/Sort the People.iml" filepath="$PROJECT_DIR$/Sort the People/Sort the People.iml" />
       <module fileurl="file://$PROJECT_DIR$/Test/Test.iml" filepath="$PROJECT_DIR$/Test/Test.iml" />
       <module fileurl="file://$PROJECT_DIR$/TestUI/TestUI.iml" filepath="$PROJECT_DIR$/TestUI/TestUI.iml" />
       <module fileurl="file://$PROJECT_DIR$/problem B/problem B.iml" filepath="$PROJECT_DIR$/problem B/problem B.iml" />
