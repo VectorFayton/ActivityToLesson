@@ -1,3 +1,5 @@
+package Test;
+
 public class Dog extends Mammal
 {
     public Dog(String name) {
@@ -14,6 +16,6 @@ public class Dog extends Mammal
     }
     @Override
     public String toString() {
-        return String.format("Dog[%s]", super.toString());
+        return String.format("Test.Dog[%s]", super.toString());
     }
 }

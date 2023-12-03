@@ -1,3 +1,5 @@
+package Test;
+
 public class Animal {
     private String name;
 
@@ -9,6 +11,6 @@ public class Animal {
     @Override
     public String toString() {
 
-        return String.format("Animal[%s]", name);
+        return String.format("Test.Animal[%s]", name);
     }
 }

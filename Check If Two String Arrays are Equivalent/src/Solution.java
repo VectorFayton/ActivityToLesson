@@ -15,4 +15,9 @@ class Solution {
         }
         return text;
     }
+
+    public static void main(String[] args) {
+        String[] word1 = new String[]{"abc", "d", "defg"};
+
+    }
 }
